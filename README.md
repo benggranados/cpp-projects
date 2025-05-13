@@ -6,9 +6,3 @@ Each folder includes:
 - C++ code
 - A README describing the project and how to run it
 
-## Topics Covered
-- Black-Scholes pricing
-- Binomial trees
-- Monte Carlo simulation
-- Interest rate modeling
-- Finite differences
