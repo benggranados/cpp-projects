@@ -13,5 +13,4 @@ This project explores a probability-based coin toss game between two players—A
 - Compares **empirical win rates** to theoretical values
 - Outputs results as a CSV for visualization
 
-## 📈 Sample Output Format (CSV)
 
